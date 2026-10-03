@@ -1,15 +1,13 @@
+![Omil Agarwal — AI Model Trainer & Software Engineer](hero.svg)
+
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=440&lines=AI+Model+Trainer;Software+Engineer;Prompt+Engineer;LLM+Evaluator)](https://git.io/typing-svg)
-
-# Omil Agarwal
-
-**AI Model Trainer & Software Engineer**
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-omilagarwal.github.io-2E9EF7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://omilagarwal.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-omilagarwal.github.io-00d4ff?style=for-the-badge&logo=google-chrome&logoColor=white)](https://omilagarwal.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-OmilAgarwal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omilagarwal/)
 [![Email](https://img.shields.io/badge/Email-omilagarwal@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omilagarwal@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-OmilAgarwal-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/OmilAgarwal/)
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00d4ff&center=true&vCenter=true&width=600&lines=Training+AI+to+think+better;Evaluating+LLMs+for+a+living;Building+software+that+ships" alt="Typing animation" />
 
 </div>
 
@@ -17,11 +15,21 @@
 
 ## About Me
 
-BTech Computer Science graduate (2026) from Lovely Professional University, working as an AI model trainer and software engineer. I spent a year at Outlier.ai evaluating and ranking LLM outputs, authoring prompts, and assuring data quality, including Hindi translation and transcription work. I also build full-stack applications with JavaScript, Node.js, Python, and MongoDB.
+```python
+class OmilAgarwal:
+    def __init__(self):
+        self.education = "BTech Computer Science, LPU (2026)"
+        self.role = "AI Model Trainer & Software Engineer"
+        self.experience = "1+ year training and evaluating LLMs"
+        self.languages_human = ["English", "Hindi"]
+        self.languages_code = ["Python", "Java", "JavaScript", "Kotlin"]
+        self.open_to = "Remote AI & software roles"
 
-- Currently open to remote roles in AI training, LLM evaluation, and software engineering
-- Fluent in English and Hindi
-- Based in India, working worldwide
+    def train(self, model_outputs):
+        return self.evaluate(model_outputs) + self.align(model_outputs)
+```
+
+BTech Computer Science graduate (2026) from Lovely Professional University. I spent a year at **Outlier.ai** evaluating and ranking LLM outputs, authoring prompts, and assuring data quality — including Hindi translation and transcription work. I also build full-stack applications with JavaScript, Node.js, Python, and MongoDB.
 
 ---
 
@@ -61,9 +69,9 @@ BTech Computer Science graduate (2026) from Lovely Professional University, work
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![REST APIs](https://img.shields.io/badge/REST_APIs-2E9EF7?style=flat-square&logo=fastapi&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-00d4ff?style=flat-square&logo=fastapi&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-6E56CF?style=flat-square&logo=openai&logoColor=white)
-![LLM Evaluation](https://img.shields.io/badge/LLM_Evaluation-FF6B6B?style=flat-square&logo=openai&logoColor=white)
+![LLM Evaluation](https://img.shields.io/badge/LLM_Evaluation-FF2EA6?style=flat-square&logo=openai&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
@@ -75,6 +83,8 @@ BTech Computer Science graduate (2026) from Lovely Professional University, work
 ![Omil's GitHub stats](https://github-readme-stats.vercel.app/api?username=OmilAgarwal&show_icons=true&theme=tokyonight&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OmilAgarwal&layout=compact&theme=tokyonight&hide_border=true)
+
+![Profile views](https://komarev.com/ghpvc/?username=OmilAgarwal&color=00d4ff&style=flat-square)
 
 </div>
 
@@ -92,8 +102,4 @@ Featured in **US Times Now** — ["Omil And Shivam, Two Brothers Dominating IG: 
 - LinkedIn: [linkedin.com/in/omilagarwal](https://www.linkedin.com/in/omilagarwal/)
 - Email: [omilagarwal@gmail.com](mailto:omilagarwal@gmail.com)
 
-<div align="center">
-
-![Profile views](https://komarev.com/ghpvc/?username=OmilAgarwal&color=2E9EF7&style=flat-square)
-
-</div>
+![Footer wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
